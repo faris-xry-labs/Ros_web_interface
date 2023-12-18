@@ -1,0 +1,8 @@
+Ros web interface
+
+ros and website will communicate through the websocket
+libray use in this project 
+ros
+value.js
+by launching ros serve server is created by default 9090
+and will communicate through ws://localhost:9090
